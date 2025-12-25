@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# OS junk
+.DS_Store
+
+# IDE/project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# OS junk
+.DS_Store
+
+# IDE/project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+
+
+
